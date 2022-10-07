@@ -1,0 +1,23 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.hero {
+  width: 1200px;
+  margin: 0 auto;
+}
+.center {
+  text-align: center;
+}
+.card {
+  width: 1200px;
+  margin: 0 auto;
+}
+.fruit-card-mini {
+  width: 300px;
+}
+.fruit-card-medium {
+  width: 500px;
+}
+

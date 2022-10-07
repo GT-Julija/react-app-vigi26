@@ -1,0 +1,36 @@
+h1,
+h2 {
+  background-color: none;
+}
+
+.hero {
+  margin: 14px;
+  /* background-color: #00a3cc; */
+  padding: 8px;
+}
+.title {
+  color: white;
+  margin: 0;
+}
+
+h2 {
+  font-weight: 200;
+}
+.red-hero {
+  background-color: #f47174;
+  padding: 40px;
+}
+
+.blue-hero {
+  background-color: #93caed;
+  padding: 40px;
+}
+
+.green-hero {
+  background-color: #acd1af;
+  padding: 40px;
+}
+
+.white-hero {
+  padding: 40px;
+}

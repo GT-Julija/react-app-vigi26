@@ -1,0 +1,29 @@
+.container {
+  background-color: #6c9ba7;
+  color: white;
+  text-align: center;
+  padding: 40px;
+  margin: 14px;
+  font-weight: italic;
+}
+
+.red-hero {
+  background-color: #f47174;
+  padding: 40px;
+}
+.blue-hero {
+  background-color: #93caed;
+  padding: 40px;
+}
+
+.white-hero {
+  background-color: #fcfcfc;
+  padding: 40px;
+}
+
+/*.button {
+  position: relative;
+  right: -560px;
+}*/
+
+/*background-image:url("https://im/ages.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2VhJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");*/

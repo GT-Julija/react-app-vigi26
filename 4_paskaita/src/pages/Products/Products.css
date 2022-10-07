@@ -1,0 +1,19 @@
+.weekday {
+    margin: 10px;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+  }
+  
+  .active {
+    background-color: lightblue;
+  }
+  
+  .todo-list {
+    margin-top: 40px;
+  }
+  
+  .todo-input {
+    margin: 10px;
+    padding: 10px;
+  }
