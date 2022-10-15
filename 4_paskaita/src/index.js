@@ -4,12 +4,13 @@ import './index.css';
 //import App from './App';
 import reportWebVitals from './reportWebVitals';
 //import Portfolio from './pages/Portfolio/Portfolio';
-import Products from './pages/Products/Products';
+//import Products from './pages/Products/Products';
+import Items from "./pages/Items/items";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Products />
+   < Items />
   </React.StrictMode>
 );
 

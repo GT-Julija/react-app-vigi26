@@ -1,0 +1,12 @@
+.nav-bar {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+}
+
+.nav-bar a {
+  text-decoration: none;
+  margin: 0 14px;
+  color: black;
+  font-weight: 500;
+}
